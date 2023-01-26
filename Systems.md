@@ -9,7 +9,8 @@
 * TAO: Facebook’s Distributed Data Store for the Social Graph: https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/data-store/tao-facebook-distributed-datastore-atc-2013.pdf
 * Amazon Architecture: http://highscalability.com/amazon-architecture
 * Dynamo: Amazon’s Highly Available Key-value Store: https://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf
-* A 360 Degree View Of The Entire Netflix Stack: https://goo.gl/rYSDTz It’s All A/Bout Testing: The Netflix Experimentation Platform: https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15
+* A 360 Degree View Of The Entire Netflix Stack: https://goo.gl/rYSDTz 
+* It’s All A/Bout Testing: The Netflix Experimentation Platform: https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15
 * Netflix Recommendations: Beyond the 5 stars (Part 1): https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
 * Netflix Recommendations: Beyond the 5 stars (Part 2): https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5
 * Google Architecture: http://highscalability.com/google-architecture
